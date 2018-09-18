@@ -13,7 +13,7 @@ gists and tutorials along the way.
 gcc -o hellomake hellomake.c hellofunc.c -I
 
 Arguments: 
-  -o = Output file.
+  -o = Output file. <br>
   -I = Includes directory of header files.
   
 
